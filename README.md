@@ -17,12 +17,10 @@ The projects cover a variety of tasks, including image classification, text anal
 
 ## How to Run
 ```
-cd existing repo
 git clone https://github.com/AndreySerdyukov/ML-projects
+cd ML-projects
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
-.\venv\Scripts\activate  # Windows
-pip install -r requirements.txt
 jupyter lab
 ```
 
