@@ -10,7 +10,7 @@ This folder contains my machine learning projects, including classification and 
 ## Description
 
 Each project consists of two main stages:
-1. Hyperparameter tuning using different techniques (e.g., GridSearch, RandomSearch).
+1. Hyperparameter tuning using different techniques (GridSearch, ColumnTransformer etc).
 2. Training and saving the final model that achieved the best performance on validation data.
 
 The projects cover a variety of tasks, including image classification, text analysis, time series forecasting, and other machine learning problems.
