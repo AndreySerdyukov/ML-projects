@@ -16,7 +16,7 @@ Each project consists of two main stages:
 The projects cover a variety of tasks, including image classification, text analysis, time series forecasting, and other machine learning problems.
 
 ## How to Run
-'''
+```
 cd existing repo
 git clone https://github.com/AndreySerdyukov/ML-projects
 python3 -m venv venv
@@ -24,6 +24,6 @@ source venv/bin/activate  # macOS/Linux
 .\venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 jupyter lab
-'''
+```
 
 
