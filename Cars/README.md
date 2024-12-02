@@ -32,8 +32,3 @@ The dataset includes the following features:
 - **Model Validation**: Ensure the model is robust and performs well, particularly avoiding errors like predicting negative prices.
 - **Data Quality**: Pay attention to potential data issues, especially with manually labeled columns such as vehicle size class.
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
