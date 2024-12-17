@@ -1,4 +1,5 @@
 # X5 Retail Hero: Uplift Modeling for Promotional Campaign
+[Ссылка на страницу соревнования](https://ods.ai/competitions/x5-retailhero-uplift-modeling)
 
 ## Задача 
 Предсказать, на сколько увеличится вероятность покупки в результате отправки рекламного СМС
